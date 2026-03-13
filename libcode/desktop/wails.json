@@ -1,0 +1,22 @@
+{
+  "name": "libcode",
+  "outputfilename": "Libcode",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Gemone",
+    "email": "info@gemone.com"
+  },
+  "info": {
+    "companyName": "Gemone",
+    "productName": "Libcode",
+    "productVersion": "0.1.0",
+    "copyright": "Copyright ........",
+    "comments": "AI-powered development tool"
+  },
+  "wailsjsdir": "./wailsjs",
+  "version": "2",
+  "outputType": "desktop"
+}
